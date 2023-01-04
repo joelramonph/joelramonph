@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Aprendiendo sobre frontend.
+- 🤔 &nbsp; En 2014 inicié en este maravilloso mundo de la programación, fundando un club para niños y adolescentes, luego de esta experiencia mi viaje me llevó al desarrollo web fullstack.
 
 - 🎓 &nbsp; Estudiando Ciencias de la Computación en Academlo y Frecodecamp.
 
@@ -22,6 +22,11 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Python | Django | Flask | DigitalOcean
+
+<hr>
 
 
 
