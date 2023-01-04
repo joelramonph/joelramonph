@@ -22,11 +22,29 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Aprendiendo</h3>
 
 - 🔧 &nbsp; Python | Django | Flask | DigitalOcean
 
 <hr>
+
+<br/><br/>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+<a href="https://portafoliodevjph.netlify.app/"><img alt="Website" src=""></a>
+
+<a href="https://www.linkedin.com/in/joel-parra-hern%C3%A1ndez-4b1ba315/"><img alt="LinkedIn" src=""></a>
+
+<a href="joeldevjobs"><img alt="Email" src=""></a>
+
+</p>
 
 
 
