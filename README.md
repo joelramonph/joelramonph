@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; En 2014 inicié en este maravilloso mundo de la programación, fundando un club para niños y adolescentes, luego de esta experiencia mi viaje me llevó al desarrollo web fullstack.
 
-- 🎓 &nbsp; Estudiando Ciencias de la Computación en Academlo, Frecodecamp y Udemy.
+- 🎓 &nbsp; Estudiando Ciencias de la Computación en Academlo, Frecodecamp, Odinproject y Udemy.
 
 - 🌱 &nbsp; Apendiendo  Vuejs, Tailwind Css, GraphQl, Gatsby.
 
