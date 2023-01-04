@@ -1,6 +1,6 @@
 ### Hola a todos 👋<h2>Soy Joel Parra</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
