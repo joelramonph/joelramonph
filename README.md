@@ -1,6 +1,6 @@
 ### Hola a todos 👋<h2>Soy Joel Parra</h2>
 
-
+<br>
 
 <h3> 👨🏻•💻 Acerca de mí </h3>
 
@@ -30,7 +30,7 @@
 
 <br/><br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contacto </h3>
 
 <br>
 
