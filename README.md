@@ -38,11 +38,11 @@
 
 <p align="center">
 
-<a href="https://portafoliodevjph.netlify.app/"><img alt="Website" src=""></a>
+<a href="https://portafoliodevjph.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"></a>
 
 <a href="https://www.linkedin.com/in/joel-parra-hern%C3%A1ndez-4b1ba315/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 
-<a href="joeldevjobs"><img alt="Email" src=""></a>
+
 
 </p>
 
