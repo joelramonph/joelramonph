@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @joelramonph
-- 👀 I’m interested in code
-- 🌱 I’m currently learning phyton and vuejs
-- 💞️ I’m looking to collaborate on jivitedacademia
-- 📫 How to reach me joelramonph@gmail.com
+### Hola a todos 👋<h2>Soy Joel Parra</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 Acerca de mí </h3>
+
+
+
+- 🤔 &nbsp; Aprendiendo sobre frontend.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
 
 <!---
 joelramonph/joelramonph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
