@@ -8,15 +8,19 @@
 
 - 🤔 &nbsp; Aprendiendo sobre frontend.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Estudiando Ciencias de la Computación en Academlo y Frecodecamp.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Apendiendo  Vuejs, Tailwind Css, GraphQl, Gatsby.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Mi objetivo crecer como desarrollador web.
 
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Stack Tecnológico </h3>
+
+- 💻 &nbsp; Javascript | Node | Postgres | 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
 
 
