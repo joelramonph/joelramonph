@@ -36,7 +36,7 @@
 
 
 
-<p align="center">
+<div align="center">
 
 <a href="https://portafoliodevjph.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"></a>
 
@@ -44,7 +44,7 @@
 
 
 
-</p>
+</div>
 
 
 
