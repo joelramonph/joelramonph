@@ -22,9 +22,9 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
-<h3>🛠 Objetivos 2023</h3>
+<h3>🛠 Objetivos de Aprendizaje 2023</h3>
 
-- 🔧 &nbsp; Python | Django | Flask | DigitalOcean | Inglés.
+- 🔧 &nbsp; C# | Xamari |  DigitalOcean | Inglés.
 
 <hr>
 
