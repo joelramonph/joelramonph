@@ -22,7 +22,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
 
-<h3>🛠 Objetivos de Aprendizaje 2023</h3>
+<h3>🛠 Objetivos de Aprendizaje 2024</h3>
 
 - 🔧 &nbsp; C# | Xamari |  DigitalOcean | Inglés.
 
