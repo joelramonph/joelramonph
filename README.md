@@ -1,30 +1,30 @@
-### Hola a todos 👋<h2>Soy Joel Parra</h2>
+# ¡Hola! Soy Joel Ramón | Educador STEAM & Coach de Robótica 🚀
 
-<br>
+Transformo la educación tecnológica a través de la creación de prototipos reales y el desarrollo del pensamiento computacional. Con más de 10 años de experiencia, he formado a +500 estudiantes en el apasionante mundo de la tecnología.
 
-<h3> 👨🏻•💻 Acerca de mí </h3>
+## 👨‍🏫 Mi Enfoque Educativo
+- **Metodología:** Aprendizaje Basado en Retos (ABR).
+- **World Logic:** Creador de la metodología de pensamiento computacional "Protocolo a Marte" (Unplugged).
+- **Mentoria WRO:** Tutor y asesor para competencias internacionales (World Robot Olympiad).
 
+## 🛠️ Tecnologías que Enseño y Desarrollo
+- **Hardware & Embebidos:** Arduino (R3, R4, Mega), ESP32, Micro:bit, Raspberry Pi 5.
+- **Lenguajes & Plataformas:** Scratch, App Inventor, Python, Micropython, JavaScript (React).
+- **Nuevas Fronteras:** Experimentando con Visión por Computadora (MediaPipe/OpenCV) y Agentes de IA con n8n.
 
+## 🌟 Proyectos Destacados
+- **Proyecto PAVIA:** Robot de monitoreo de tránsito (WRO 2025). Asesoría técnica y pedagógica para niños.
+- **World Logic (Protocolo a Marte):** Juego educativo para desarrollar lógica de programación sin pantallas.
+- **Electrocardiograma V1:** Desarrollo de hardware para telemedicina y tesis de ingeniería.
 
-- 🤔 &nbsp; En 2014 inicié en este maravilloso mundo de la programación, fundando un club para niños y adolescentes, luego de esta experiencia mi viaje me llevó al desarrollo web fullstack.
+## 🏆 Impacto y Logros
+- +500 estudiantes capacitados en la última década.
+- Coach activo en WRO 2024 y 2025.
+- Formador de talento de alto rendimiento (Orgulloso padre y mentor de campeona internacional de robótica en Singapur).
 
-- 🎓 &nbsp; Estudiando Ciencias de la Computación en Academlo, Frecodecamp, Odinproject y Udemy.
-
-- 🌱 &nbsp; Apendiendo  Vuejs, Tailwind Css, GraphQl, Gatsby.
-
-- ✍️ &nbsp; Mi objetivo crecer como desarrollador web.
-
-
-
-<h3>🛠 Stack Tecnológico </h3>
-
-- 💻 &nbsp; Javascript | Node | Postgres | 
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS 
-
-<h3>🛠 Objetivos de Aprendizaje 2026</h3>
-
-- 🔧 &nbsp; Python | Análisis de Datos |  ROS | Inglés.
+---
+📫 ¿Buscas consultoría para tu EdTech o clases de alto nivel? ¡Hablemos!
+joelramonph@gmail.com
 
 <hr>
 
