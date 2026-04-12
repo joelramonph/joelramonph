@@ -1,4 +1,4 @@
-# ¡Hola! Soy Joel Ramón | Educador STEAM & Coach de Robótica 🚀
+# ¡Hola! Soy Joel Parra | Educador STEAM & Coach de Robótica 🚀
 
 Transformo la educación tecnológica a través de la creación de prototipos reales y el desarrollo del pensamiento computacional. Con más de 10 años de experiencia, he formado a +500 estudiantes en el apasionante mundo de la tecnología.
 
