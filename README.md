@@ -22,6 +22,19 @@ Transformo la educación tecnológica a través de la creación de prototipos re
 - Coach activo en WRO 2024 y 2025.
 - Formador de talento de alto rendimiento (Orgulloso padre y mentor de campeona internacional de robótica en Singapur).
 
+## 🎓 Especialización en Python (En progreso)
+Actualmente fortaleciendo mis capacidades técnicas para integrar IA avanzada y análisis de datos en la educación STEAM.
+
+| Módulo | Estado | Proyecto / Meta |
+| :--- | :---: | :--- |
+| **Fundamentos de Python** | 🟢 Completado | Lógica de programación avanzada |
+| **Data Analysis & Visualization** | 🟡 En curso | Análisis de rendimiento de sensores |
+| **Automation & Scripting** | ⚪ Pendiente | Automatización de tareas docentes |
+| **Web Development (Python)** | ⚪ Pendiente | Dashboard para monitoreo de robots |
+| **Advanced Python Techniques** | ⚪ Pendiente | Optimización de algoritmos de visión |
+
+*Leyenda: 🟢 Finalizado | 🟡 En curso | ⚪ Planificado*
+
 ---
 📫 ¿Buscas consultoría para tu EdTech o clases de alto nivel? ¡Hablemos!
 joelramonph@gmail.com
