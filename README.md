@@ -28,8 +28,8 @@ Actualmente fortaleciendo mis capacidades técnicas para integrar IA avanzada y 
 | Módulo | Estado | Proyecto / Meta |
 | :--- | :---: | :--- |
 | **Fundamentos de Python** | 🟢 Completado | Lógica de programación avanzada |
-| **Data Analysis & Visualization** | 🟡 En curso | Análisis de rendimiento de sensores |
-| **Automation & Scripting** | ⚪ Pendiente | Automatización de tareas docentes |
+| **Data Analysis & Visualization** | 🟢 Completado | Monitor de Temperatura en Tiempo Real con micro:bit y Python |
+| **Automation & Scripting** | 🟡 En curso | Automatización de tareas docentes |
 | **Web Development (Python)** | ⚪ Pendiente | Dashboard para monitoreo de robots |
 | **Advanced Python Techniques** | ⚪ Pendiente | Optimización de algoritmos de visión |
 
